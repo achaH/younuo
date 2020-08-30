@@ -1,3 +1,332 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "data": {
+    "brotherCategory": [
+      {
+        "id": "1",
+        "name": "\u4f18\u8bfa\u4f18\u4e1d\u76d2\u88c5\u7cfb\u5217",
+        "keywords": "",
+        "front_desc": "\u6362\u4e2a\u8f6f\u88c5\uff0c\u6362\u4e2a\u5bb6",
+        "parent_id": 1005000,
+        "sort_order": 6,
+        "show_index": 4,
+        "is_show": 1,
+        "banner_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/uplaod\/382805820181207094302.png",
+        "icon_url": "",
+        "img_url": "",
+        "wap_banner_url": "http:\/\/yanxuan.nosdn.127.net\/2e2fb4f2856a021bbcd1b4c8400f2b06.png",
+        "level": "L2",
+        "type": 0,
+        "front_name": "\u7eaf\u6b63\u751f\u725b\u4e73\uff0c\u5929\u7136\u6162\u53d1\u9175"
+      },
+      {
+        "id": "3",
+        "name": "\u4f18\u8bfa\u4f18\u4e1d\u74f6\u88c5\u7cfb\u5217",
+        "keywords": "",
+        "front_desc": "\u6362\u4e2a\u8f6f\u88c5\uff0c\u6362\u4e2a\u5bb6",
+        "parent_id": 1005000,
+        "sort_order": 6,
+        "show_index": 4,
+        "is_show": 1,
+        "banner_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/uplaod\/352603720181106083255.jpg",
+        "icon_url": "",
+        "img_url": "",
+        "wap_banner_url": "http:\/\/yanxuan.nosdn.127.net\/2e2fb4f2856a021bbcd1b4c8400f2b06.png",
+        "level": "L2",
+        "type": 0,
+        "front_name": "\u7eaf\u6b63\u751f\u725b\u4e73\uff0c\u5929\u7136\u6162\u53d1\u9175"
+      },
+      {
+        "id": "2",
+        "name": "\u679c\u7c92\u770b\u5f97\u89c1\u7cfb\u5217",
+        "keywords": "",
+        "front_desc": "\u6362\u4e2a\u8f6f\u88c5\uff0c\u6362\u4e2a\u5bb6",
+        "parent_id": 1005000,
+        "sort_order": 6,
+        "show_index": 4,
+        "is_show": 1,
+        "banner_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/uplaod\/243251920181106084046.jpg",
+        "icon_url": "",
+        "img_url": "",
+        "wap_banner_url": "http:\/\/yanxuan.nosdn.127.net\/2e2fb4f2856a021bbcd1b4c8400f2b06.png",
+        "level": "L2",
+        "type": 0,
+        "front_name": "\u7eaf\u6b63\u751f\u725b\u4e73\uff0c\u5929\u7136\u6162\u53d1\u9175"
+      }
+    ],
+    "currentCategory": {
+      "id": "1",
+      "name": "\u4f18\u8bfa\u4f18\u4e1d\u76d2\u88c5\u7cfb\u5217",
+      "keywords": "",
+      "front_desc": "\u6362\u4e2a\u8f6f\u88c5\uff0c\u6362\u4e2a\u5bb6",
+      "parent_id": 1005000,
+      "sort_order": 6,
+      "show_index": 4,
+      "is_show": 1,
+      "banner_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/uplaod\/382805820181207094302.png",
+      "icon_url": "",
+      "img_url": "",
+      "wap_banner_url": "http:\/\/yanxuan.nosdn.127.net\/2e2fb4f2856a021bbcd1b4c8400f2b06.png",
+      "level": "L2",
+      "type": 0,
+      "front_name": "\u7eaf\u6b63\u751f\u725b\u4e73\uff0c\u5929\u7136\u6162\u53d1\u9175"
+    },
+    "parentCategory": {
+      "id": 1005000,
+      "name": "\u5c45\u5bb6",
+      "keywords": "",
+      "front_desc": "\u56de\u5bb6\uff0c\u653e\u677e\u8eab\u5fc3",
+      "parent_id": 0,
+      "sort_order": 2,
+      "show_index": 1,
+      "is_show": 1,
+      "banner_url": "hhttp:\/\/yanxuan.nosdn.127.net\/92357337378cce650797444bc107b0f7.jpg",
+      "icon_url": "http:\/\/yanxuan.nosdn.127.net\/a45c2c262a476fea0b9fc684fed91ef5.png",
+      "img_url": "\/\/nos.netease.com\/yanxuan\/f0d0e1a542e2095861b42bf789d948ce.jpg",
+      "wap_banner_url": "http:\/\/yanxuan.nosdn.127.net\/e8bf0cf08cf7eda21606ab191762e35c.png",
+      "level": "L1",
+      "type": 0,
+      "front_name": "\u56de\u5bb6\uff0c\u653e\u677e\u8eab\u5fc3"
+    }
+  },
+  "first": {
+    "count": 8,
+    "totalPages": 1,
+    "pageSize": "10000",
+    "currentPage": "1",
+    "data": [
+      {
+        "id": "3",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u8349\u8393\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/723230420181103183025.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/491442420181104063928.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "2",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u539f\u5473\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/438476420181103182940.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/313721720181104063959.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "7",
+        "name": "\u4f18\u8bfa \u73ab\u7470\u8513\u8d8a\u8393\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/736284420181103183719.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/743615220181104063720.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "6",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u70ed\u5e26\u6930\u98ce\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/881636320181103183600.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/161510920181104063740.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "5",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u9ec4\u6843\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/885249820181103183402.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/761362720181104063817.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "4",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u84dd\u8393\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/234372820181103183249.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/144998320181104063840.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "9",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u62b9\u8336\u7ec6\u8bed \u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/854341920181103184019.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/636720920181104063635.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "8",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u7ea2\u8c46\u7ef5\u7ef5 \u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/391116720181103183854.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/857962320181104063659.png",
+        "retail_price": "24.00"
+      }
+    ],
+    "goodsList": [
+      {
+        "id": "3",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u8349\u8393\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/723230420181103183025.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/491442420181104063928.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "2",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u539f\u5473\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/438476420181103182940.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/313721720181104063959.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "7",
+        "name": "\u4f18\u8bfa \u73ab\u7470\u8513\u8d8a\u8393\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/736284420181103183719.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/743615220181104063720.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "6",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u70ed\u5e26\u6930\u98ce\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/881636320181103183600.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/161510920181104063740.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "5",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u9ec4\u6843\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/885249820181103183402.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/761362720181104063817.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "4",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u84dd\u8393\u679c\u7c92\u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/234372820181103183249.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/144998320181104063840.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "9",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u62b9\u8336\u7ec6\u8bed \u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/854341920181103184019.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/636720920181104063635.png",
+        "retail_price": "24.00"
+      },
+      {
+        "id": "8",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u53d1\u9175\u4e73 \u7ea2\u8c46\u7ef5\u7ef5 \u9178\u5976 135g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/391116720181103183854.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/857962320181104063659.png",
+        "retail_price": "24.00"
+      }
+    ]
+  },
+  "second": {
+    "count": 4,
+    "totalPages": 1,
+    "pageSize": "10000",
+    "currentPage": "1",
+    "data": [
+      {
+        "id": "15",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u77f3\u69b4\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/472818820181107180600.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/406768020181107180612.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "14",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u8349\u8393\u679c\u7c92\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/810970420181107180647.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/451605920181107180659.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "13",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u539f\u5473\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/407078920181107180737.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/474971120181107180745.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "12",
+        "name": "\u4f18\u8bfa \u725b\u6cb9\u679c\u9999\u8549\u9178\u5976 210g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/150030220181108064245.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/123193320181108064626.png",
+        "retail_price": "26.00"
+      }
+    ],
+    "goodsList": [
+      {
+        "id": "15",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u77f3\u69b4\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/472818820181107180600.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/406768020181107180612.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "14",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u8349\u8393\u679c\u7c92\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/810970420181107180647.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/451605920181107180659.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "13",
+        "name": "\u4f18\u8bfa \u4f18\u4e1d \u98ce\u5473\u9178\u4e73 \u539f\u5473\u9178\u5976 210g*3\u74f6",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/407078920181107180737.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/474971120181107180745.png",
+        "retail_price": "26.00"
+      },
+      {
+        "id": "12",
+        "name": "\u4f18\u8bfa \u725b\u6cb9\u679c\u9999\u8549\u9178\u5976 210g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/150030220181108064245.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/123193320181108064626.png",
+        "retail_price": "26.00"
+      }
+    ]
+  },
+  "third": {
+    "count": 3,
+    "totalPages": 1,
+    "pageSize": "10000",
+    "currentPage": "1",
+    "data": [
+      {
+        "id": "11",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u8349\u8393\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/325042720181103184447.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/899340520181104063512.png",
+        "retail_price": "27.00"
+      },
+      {
+        "id": "10",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u6df7\u5408\u8393\u679c\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/536848020181103184326.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/128475020181104063534.png",
+        "retail_price": "27.00"
+      },
+      {
+        "id": "1",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u8292\u679c\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/738483220181103184515.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/628111420181104063554.png",
+        "retail_price": "27.00"
+      }
+    ],
+    "goodsList": [
+      {
+        "id": "11",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u8349\u8393\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/325042720181103184447.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/899340520181104063512.png",
+        "retail_price": "27.00"
+      },
+      {
+        "id": "10",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u6df7\u5408\u8393\u679c\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/536848020181103184326.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/128475020181104063534.png",
+        "retail_price": "27.00"
+      },
+      {
+        "id": "1",
+        "name": "\u4f18\u8bfa \u679c\u7c92\u770b\u5f97\u89c1 \u8292\u679c\u9178\u5976 125g*3",
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/738483220181103184515.png",
+        "list_jdqrcode_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/628111420181104063554.png",
+        "retail_price": "27.00"
+      }
+    ]
+  }
 }

@@ -11,7 +11,7 @@ Page({
   getData(){
     let that = this
     wx.request({
-      url: 'http://localhost:3000/data', 
+      url: 'http://127.0.0.1:3001/data', 
       header: {
         'content-type': 'application/json' // 默认值
       },

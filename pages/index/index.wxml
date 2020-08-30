@@ -29,7 +29,7 @@
 <!-- 标题 -->
 <view class="title">
   <view class="cn">优诺美味料理</view>
-  <view class="en">RECOMMENDED</view>
+  <view class="en">DELICIOUS FOOD</view>
 </view>
 <!-- 优诺美味料理 -->
 <view class="liaoli">
@@ -40,7 +40,7 @@
 <!-- 标题 -->
 <view class="title">
   <view class="cn">商品分类</view>
-  <view class="en">RECOMMENDED</view>
+  <view class="en">CLASSIFICATION</view>
 </view>
 <!-- 优诺美味料理 -->
 <view class="classList">
@@ -51,7 +51,7 @@
 <!-- 标题 -->
 <view class="title">
   <view class="cn">礼品卡</view>
-  <view class="en">RECOMMENDED</view>
+  <view class="en">GIFT KARD</view>
 </view>
 <view class="comming">
   <image src="../../icon/comingsoon.png"></image>

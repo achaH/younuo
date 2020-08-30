@@ -1,2 +1,21 @@
-<!--pages/mine/mine.wxml-->
-<text>pages/mine/mine.wxml</text>
+<!-- pages/mine/mine.wxml -->
+<view class="user">
+  <view class="avater">
+    <image src="../../icon/user.png"></image>
+  </view>
+  <view class="tips" hover-class="background-color:grey">点击登录账户</view>
+</view>
+<view class="setting">
+  <view class="item">
+    <view class="title">我的礼品卡</view>
+    <view class="arrow">
+      <image src="../../icon/arrow.png"></image>
+    </view>
+  </view>
+  <view class="item">
+    <view class="title">帮助中心</view>
+    <view class="arrow">
+      <image src="../../icon/arrow.png"></image>
+    </view>
+  </view>
+</view>

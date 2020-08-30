@@ -1,2 +1,20 @@
-<!--pages/category/category.wxml-->
-<text>pages/category/category.wxml</text>
+<!-- 商品详情页导航栏 -->
+<view class="nav_warp">
+  <!-- 滚动组件 -->
+  <view class="nav_wrap">
+    <scroll-view class="nav" wx:for="{{navList}}" wx:key="id" scroll-x="true">
+      <view bindtap="activeNav" data-index="{{index}}" class="nav_item {{index===currentIndexNav?'active':''}}">
+        {{item.name}}
+      </view>
+    </scroll-view>
+  </view>
+  <view class="name">优诺优私盒装系列</view>
+  <view class="subname">纯正生牛乳，天然慢发酵</view>
+</view>
+<view class="content">
+  <navigator class="content-item" wx:for="{{firstList}}" wx:key="id">
+    <image src="{{item.list_pic_url}}" mode="widthFix"></image>
+    <view class="title">{{item.name}}</view>
+    <view class="price">￥{{item.retail_price}}</view>
+  </navigator>
+</view>
