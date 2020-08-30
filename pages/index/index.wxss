@@ -1,0 +1,58 @@
+/**index.wxss**/
+.slides, .nav, .category, .liaoli{
+  padding: 4px;
+}
+image{
+  border-radius: 6px;
+}
+swiper{
+  height: 270px;
+}
+.imageSize{
+  display: flex;
+  justify-content: center;
+  height: 270px;
+  align-items: center;
+}
+.nav{
+  display: flex;
+  justify-content: space-around;
+}
+.nav-item {
+  margin: 4px;
+}
+.nav-item image{
+  width: 116px;
+  border-radius: 6px;
+}
+.title{
+  height: 70px;
+  text-align: center;
+  padding: 12px 0;
+  background-color: rgb(243, 240, 240);
+}
+.title .cn {
+  color: rgb(37, 36, 36);
+}
+.title .en {
+  margin-top: 6px;
+  font-size: 14px;
+  color: rgb(112, 112, 112);
+}
+.category, .classList{
+  margin-top: 4px
+}
+.category .category-item image,.classList .classList-item image {
+  /* width: 100%; */
+  width: 750rpx;
+}
+.comming {
+  height: 160px;
+  line-height: 150px;
+  text-align: center;
+  padding: 16px 0;
+}
+.comming image{
+  width: 128px;
+  height: 128px;
+}

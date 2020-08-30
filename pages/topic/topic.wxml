@@ -1,0 +1,11 @@
+<!--pages/topic/topic.wxml-->
+<view>
+  <navigator class="topic-item" wx:for="{{topicList}}" wx:key="index">
+    <image src="{{item.scene_pic_url}}" mode="widthFix"></image>
+    <view class="title">{{item.title}}</view>
+  </navigator>
+</view>
+<view class="btn">
+  <button>上一页</button>
+  <button>下一页</button>
+</view>

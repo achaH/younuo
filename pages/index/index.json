@@ -1,0 +1,163 @@
+{
+  "usingComponents": {},
+  "data": {
+    "banner": [
+      {
+        "ad_position_id": "1",
+        "content": "\u5546\u54c1\u63a8\u8350\u5927\u56fe",
+        "enabled": 1,
+        "end_time": 0,
+        "id": 1,
+        "image_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/669960320181104033036.png",
+        "link": "\/pages\/category\/category",
+        "media_type": 1,
+        "name": "\u5546\u54c1\u63a8\u8350\u5927\u56fe",
+        "opentype": "switchTab"
+      }
+    ],
+    "brandList": [
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/661757720181104054300.png",
+        "floor_price": 39,
+        "id": "8",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/661757720181104054300.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/661757720181104054300.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/661757720181104054300.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/661757720181104054300.png",
+        "sort_order": 1
+      },
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/501727420181104054353.png",
+        "floor_price": 39,
+        "id": "2",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/501727420181104054353.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/501727420181104054353.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/501727420181104054353.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/501727420181104054353.png",
+        "sort_order": 1
+      }
+    ],
+    "liaoliList": [
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/140691720181104054053.png",
+        "floor_price": 39,
+        "id": "6",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/140691720181104054053.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/140691720181104054053.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/140691720181104054053.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/140691720181104054053.png",
+        "sort_order": 1
+      },
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/462706620181104054145.png",
+        "floor_price": 39,
+        "id": "5",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/462706620181104054145.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/462706620181104054145.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/462706620181104054145.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/462706620181104054145.png",
+        "sort_order": 1
+      },
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/130075520181104054215.png",
+        "floor_price": 39,
+        "id": "4",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/130075520181104054215.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/130075520181104054215.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/130075520181104054215.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/130075520181104054215.png",
+        "sort_order": 1
+      }
+    ],
+    "classList": [
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/382805820181207094302.png",
+        "floor_price": 39,
+        "id": "1",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/382805820181207094302.png",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/382805820181207094302.png",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/382805820181207094302.png",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/382805820181207094302.png",
+        "sort_order": 1
+      },
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/352603720181106083255.jpg",
+        "floor_price": 39,
+        "id": "3",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/352603720181106083255.jpg",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/352603720181106083255.jpg",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/352603720181106083255.jpg",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/352603720181106083255.jpg",
+        "sort_order": 1
+      },
+      {
+        "app_list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/243251920181106084046.jpg",
+        "floor_price": 39,
+        "id": "2",
+        "is_new": 1,
+        "is_show": 1,
+        "list_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/243251920181106084046.jpg",
+        "name": "CK\u5236\u9020\u5546",
+        "new_pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/243251920181106084046.jpg",
+        "new_sort_order": 1,
+        "pic_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/243251920181106084046.jpg",
+        "simple_desc": "https:\/\/www.dengcheng.net\/shen\/younuocms\/upload\/243251920181106084046.jpg",
+        "sort_order": 1
+      }
+    ],
+    "channel": [
+      {
+        "id": 1,
+        "name": "\u5546\u54c1",
+        "url": "\/pages\/category\/category",
+        "icon_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/images\/class1.png",
+        "sort_order": 1,
+        "opentype": "switchTab"
+      },
+      {
+        "id": 2,
+        "name": "\u4e13\u9898",
+        "url": "\/pages\/topic\/topic",
+        "icon_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/images\/class2.png",
+        "sort_order": 2,
+        "opentype": "switchTab"
+      },
+      {
+        "id": 3,
+        "name": "\u54c1\u724c\u6545\u4e8b",
+        "url": "\/pages\/topicDetail\/topicDetail?id=3",
+        "icon_url": "https:\/\/www.dengcheng.net\/shen\/younuocms\/images\/class3.png",
+        "sort_order": 3,
+        "opentype": "navigate"
+      }
+    ]
+  }
+}

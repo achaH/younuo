@@ -1,0 +1,58 @@
+<!-- index.wxml -->
+<!-- 轮播图 -->
+<view class="slides" bindtap="clickFn">
+  <swiper indicator-dots>
+    <swiper-item wx:for="{{banner}}" wx:key="index">
+      <navigator class="imageSize">
+        <image src="{{item.image_url}}" mode="widthFix"></image>
+      </navigator>
+    </swiper-item>
+  </swiper>
+</view>
+<!-- 分类 -->
+<view class="nav">
+  <navigator class="nav-item" wx:for="{{navItem}}" wx:key="index" url="{{item.url}}">
+    <image src="{{item.icon_url}}" mode="widthFix"></image>
+  </navigator>
+</view>
+<!-- 标题 -->
+<view class="title">
+  <view class="cn">商品推荐</view>
+  <view class="en">RECOMMENDED</view>
+</view>
+<!-- 商品推荐 -->
+<view class="category">
+  <navigator class="category-item" wx:for="{{categoryItem}}" wx:key="index">
+    <image src="{{item.pic_url}}" mode="widthFix"></image>
+  </navigator>
+</view>
+<!-- 标题 -->
+<view class="title">
+  <view class="cn">优诺美味料理</view>
+  <view class="en">RECOMMENDED</view>
+</view>
+<!-- 优诺美味料理 -->
+<view class="liaoli">
+  <navigator class="liaoli-item" wx:for="{{liaoliItem}}" wx:key="index">
+    <image src="{{item.pic_url}}" mode="widthFix"></image>
+  </navigator>
+</view>
+<!-- 标题 -->
+<view class="title">
+  <view class="cn">商品分类</view>
+  <view class="en">RECOMMENDED</view>
+</view>
+<!-- 优诺美味料理 -->
+<view class="classList">
+  <navigator class="classList-item" wx:for="{{classItem}}" wx:key="index">
+    <image src="{{item.pic_url}}" mode="widthFix"></image>
+  </navigator>
+</view>
+<!-- 标题 -->
+<view class="title">
+  <view class="cn">礼品卡</view>
+  <view class="en">RECOMMENDED</view>
+</view>
+<view class="comming">
+  <image src="../../icon/comingsoon.png"></image>
+</view>

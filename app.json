@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/topic/topic",
+    "pages/category/category",
+    "pages/mine/mine", 
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "优诺Yoplait",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#e95295",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "iconPath":"icon/index.png",
+      "selectedIconPath":"icon/index-active.png",
+      "text": "首页"
+    }, {
+      "pagePath": "pages/topic/topic",
+      "iconPath":"icon/topic.png",
+      "selectedIconPath":"icon/topic-active.png",
+      "text": "专题"
+    },
+    {
+      "pagePath": "pages/category/category",
+      "iconPath":"icon/commodity.png",
+      "selectedIconPath":"icon/commodity-active.png",
+      "text": "商品"
+    },
+    {
+      "pagePath": "pages/mine/mine",
+      "iconPath":"icon/mine.png",
+      "selectedIconPath":"icon/mine-active.png",
+      "text": "我的"
+    }]
+  }
+}

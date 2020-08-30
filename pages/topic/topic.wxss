@@ -1,0 +1,31 @@
+/* pages/topic/topic.wxss */
+page{
+  background-color: rgb(247, 243, 243);
+}
+.topic-item{
+  margin: 4px;
+  /* padding: 4px; */
+  background-color: #fff;
+}
+.topic-item image{
+  width: 100%;
+}
+.topic-item .title{
+  height: 50px;
+  line-height: 20px;
+  font-size: 14px;
+  padding-left: 8px;
+  color: rgb(121, 120, 120);
+}
+.btn{
+  display: flex;
+}
+.btn button {
+  font-size: 14px;
+  font-weight: normal;
+  color: #ccc;
+  border-left: 1px solid #ccc;
+  background-color: #fff;
+  border-radius: 0;
+  flex: 1;
+}
